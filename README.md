@@ -1,6 +1,7 @@
 # infographic-whatif-foods
 ### _National University of Singapore CREATION Design Competition 2021 - WhatIF Foods_
 
+![image](https://user-images.githubusercontent.com/38778609/114806818-f2162880-9dd7-11eb-8fc1-940dc8a3e883.png)
 ![logo](https://user-images.githubusercontent.com/38778609/114806201-ed04a980-9dd6-11eb-9bf0-bcb461570140.png)
 
 #### 🥇 _Won Newcomer Award for NUS CREATION Design Competition 2021_ 🥇
